@@ -15,7 +15,7 @@ theme = "juice"
 highlight_code = true
 
 [extra]
-juice_logo_name = "Shitrentals :: Resources"
+juice_logo_name = "Shitrentals :: Vibe"
 juice_logo_path = "sr-logo.jpg"
 juice_extra_menu = [
 #  { title = "Github", link = "https://github.com/vibes-au/content" }

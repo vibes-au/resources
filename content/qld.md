@@ -1,5 +1,5 @@
 +++
-title = "Resources | Queensland"
+title = "Queensland"
 description = "QLD Resources"
 weight = 2
 +++

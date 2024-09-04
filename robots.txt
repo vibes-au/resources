@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://vibes-au.github.io/resources/sitemap.xml

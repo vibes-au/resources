@@ -9,7 +9,7 @@ Resources are divided by states given the states do it differently.
 
 - [NSW](./nsw) for New South Wales
 - [VIC](./vic) for Victoria
-- [QLD](./qld)
+- [QLD](./qld) for Queensland
 
 # Minimum Standards
 

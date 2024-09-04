@@ -18,6 +18,10 @@ weight = 2
 - [QCAT Residential Tenancy Disputes](https://www.qcat.qld.gov.au/case-types/residential-tenancy-dispute-process) by [QCAT](https://www.qcat.qld.gov.au) - tribunal.
 - [Emergency and temporary accomodation](https://www.qld.gov.au/housing/emergency-temporary-accommodation) - when emergencies like disasters happen.
 
+# Tenant Unions
+
+- [South East QLD Union for Renters](https://sequr.org/)
+
 # Supports
 
 - [QSTARS](https://qstars.org.au/) - free independent advice and referral service for all Queensland renters
